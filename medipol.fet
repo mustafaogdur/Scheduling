@@ -1,0 +1,1090 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<fet version="5.44.8">
+
+<Institution_Name>Default institution</Institution_Name>
+
+<Comments>Default comments</Comments>
+
+<Days_List>
+<Number_of_Days>5</Number_of_Days>
+<Day>
+	<Name>Monday</Name>
+</Day>
+<Day>
+	<Name>Tuesday</Name>
+</Day>
+<Day>
+	<Name>Wednesday</Name>
+</Day>
+<Day>
+	<Name>Thursday</Name>
+</Day>
+<Day>
+	<Name>Friday</Name>
+</Day>
+</Days_List>
+
+<Hours_List>
+<Number_of_Hours>8</Number_of_Hours>
+<Hour>
+	<Name>08:00</Name>
+</Hour>
+<Hour>
+	<Name>09:00</Name>
+</Hour>
+<Hour>
+	<Name>10:00</Name>
+</Hour>
+<Hour>
+	<Name>11:00</Name>
+</Hour>
+<Hour>
+	<Name>12:00</Name>
+</Hour>
+<Hour>
+	<Name>13:00</Name>
+</Hour>
+<Hour>
+	<Name>14:00</Name>
+</Hour>
+<Hour>
+	<Name>15:00</Name>
+</Hour>
+</Hours_List>
+
+<Subjects_List>
+<Subject>
+	<Name>Çizelgeleme Teorisi</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Proje Yönetimi</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Veri Madenciliği</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Epidemiyoloji</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Modelleme ve Optimizasyon</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Olağan üstü Sağlık Yönetimi</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Yöneylem Araştırması I</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Yöneylem Araştırması II</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Üretim Planlama ve Stok Kontrolü</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Fizik I</Name>
+	<Comments></Comments>
+</Subject>
+<Subject>
+	<Name>Fizik ll</Name>
+	<Comments></Comments>
+</Subject>
+</Subjects_List>
+
+<Activity_Tags_List>
+</Activity_Tags_List>
+
+<Teachers_List>
+<Teacher>
+	<Name>Prof.Dr. Hakan TOZAN</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+		<Qualified_Subject>Çizelgeleme Teorisi</Qualified_Subject>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Dr.Öğr.Üye. Melis Almula KARADAYI</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+		<Qualified_Subject>Proje Yönetimi</Qualified_Subject>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Prof.Dr. Osman Erol HAYRAN</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+		<Qualified_Subject>Epidemiyoloji</Qualified_Subject>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Prof.Dr. Zekai ŞEN</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Dr.Öğr.Üye. İlker KÖSE</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Prof.Dr. Hüseyin ARSLAN</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Prof.Dr. Ayşe Zeynep SÖZEN</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Arş.Gör. Lamia Gülnur KASAP</Name>
+	<Target_Number_of_Hours>0</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+</Teachers_List>
+
+<Students_List>
+<Year>
+	<Name>Endüstri Mühendisliği - 1</Name>
+	<Number_of_Students>80</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>Endüstri Mühendisliği - 2</Name>
+	<Number_of_Students>80</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>Endüstri Mühendisliği - 3</Name>
+	<Number_of_Students>60</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>Endüstri Mühendisliği - 4</Name>
+	<Number_of_Students>70</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>Biyomedikal Mühendisliği - 1</Name>
+	<Number_of_Students>90</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>Biyomedikal Mühendisliği - 2</Name>
+	<Number_of_Students>80</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>Biyomedikal Mühendisliği - 3</Name>
+	<Number_of_Students>80</Number_of_Students>
+	<Comments></Comments>
+</Year>
+<Year>
+	<Name>Biyomedikal Mühendisliği - 4</Name>
+	<Number_of_Students>70</Number_of_Students>
+	<Comments></Comments>
+</Year>
+</Students_List>
+
+<Activities_List>
+<Activity>
+	<Teacher>Prof.Dr. Zekai ŞEN</Teacher>
+	<Subject>Olağan üstü Sağlık Yönetimi</Subject>
+	<Students>Endüstri Mühendisliği - 1</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>1</Id>
+	<Activity_Group_Id>1</Activity_Group_Id>
+	<Number_Of_Students>3</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Prof.Dr. Zekai ŞEN</Teacher>
+	<Subject>Olağan üstü Sağlık Yönetimi</Subject>
+	<Students>Endüstri Mühendisliği - 1</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>2</Id>
+	<Activity_Group_Id>1</Activity_Group_Id>
+	<Number_Of_Students>3</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Prof.Dr. Zekai ŞEN</Teacher>
+	<Subject>Olağan üstü Sağlık Yönetimi</Subject>
+	<Students>Endüstri Mühendisliği - 1</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>3</Id>
+	<Activity_Group_Id>1</Activity_Group_Id>
+	<Number_Of_Students>3</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Prof.Dr. Zekai ŞEN</Teacher>
+	<Subject>Olağan üstü Sağlık Yönetimi</Subject>
+	<Students>Endüstri Mühendisliği - 1</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>4</Id>
+	<Activity_Group_Id>4</Activity_Group_Id>
+	<Number_Of_Students>3</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Prof.Dr. Zekai ŞEN</Teacher>
+	<Subject>Olağan üstü Sağlık Yönetimi</Subject>
+	<Students>Endüstri Mühendisliği - 1</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>5</Id>
+	<Activity_Group_Id>4</Activity_Group_Id>
+	<Number_Of_Students>3</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Prof.Dr. Zekai ŞEN</Teacher>
+	<Subject>Olağan üstü Sağlık Yönetimi</Subject>
+	<Students>Endüstri Mühendisliği - 1</Students>
+	<Duration>1</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>6</Id>
+	<Activity_Group_Id>4</Activity_Group_Id>
+	<Number_Of_Students>3</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Prof.Dr. Hakan TOZAN</Teacher>
+	<Subject>Çizelgeleme Teorisi</Subject>
+	<Students>Endüstri Mühendisliği - 4</Students>
+	<Duration>2</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>7</Id>
+	<Activity_Group_Id>7</Activity_Group_Id>
+	<Number_Of_Students>3</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Prof.Dr. Hakan TOZAN</Teacher>
+	<Subject>Çizelgeleme Teorisi</Subject>
+	<Students>Endüstri Mühendisliği - 4</Students>
+	<Duration>2</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>8</Id>
+	<Activity_Group_Id>7</Activity_Group_Id>
+	<Number_Of_Students>3</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Dr.Öğr.Üye. Melis Almula KARADAYI</Teacher>
+	<Subject>Proje Yönetimi</Subject>
+	<Students>Biyomedikal Mühendisliği - 3</Students>
+	<Duration>3</Duration>
+	<Total_Duration>9</Total_Duration>
+	<Id>9</Id>
+	<Activity_Group_Id>9</Activity_Group_Id>
+	<Number_Of_Students>3</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Dr.Öğr.Üye. Melis Almula KARADAYI</Teacher>
+	<Subject>Proje Yönetimi</Subject>
+	<Students>Biyomedikal Mühendisliği - 3</Students>
+	<Duration>3</Duration>
+	<Total_Duration>9</Total_Duration>
+	<Id>10</Id>
+	<Activity_Group_Id>9</Activity_Group_Id>
+	<Number_Of_Students>3</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Dr.Öğr.Üye. Melis Almula KARADAYI</Teacher>
+	<Subject>Proje Yönetimi</Subject>
+	<Students>Biyomedikal Mühendisliği - 3</Students>
+	<Duration>3</Duration>
+	<Total_Duration>9</Total_Duration>
+	<Id>11</Id>
+	<Activity_Group_Id>9</Activity_Group_Id>
+	<Number_Of_Students>3</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Prof.Dr. Osman Erol HAYRAN</Teacher>
+	<Subject>Epidemiyoloji</Subject>
+	<Students>Endüstri Mühendisliği - 3</Students>
+	<Students>Biyomedikal Mühendisliği - 3</Students>
+	<Duration>2</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>12</Id>
+	<Activity_Group_Id>12</Activity_Group_Id>
+	<Number_Of_Students>3</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Prof.Dr. Osman Erol HAYRAN</Teacher>
+	<Subject>Epidemiyoloji</Subject>
+	<Students>Endüstri Mühendisliği - 3</Students>
+	<Students>Biyomedikal Mühendisliği - 3</Students>
+	<Duration>2</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>13</Id>
+	<Activity_Group_Id>12</Activity_Group_Id>
+	<Number_Of_Students>3</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Dr.Öğr.Üye. İlker KÖSE</Teacher>
+	<Subject>Veri Madenciliği</Subject>
+	<Students>Endüstri Mühendisliği - 2</Students>
+	<Students>Biyomedikal Mühendisliği - 2</Students>
+	<Duration>3</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>14</Id>
+	<Activity_Group_Id>14</Activity_Group_Id>
+	<Number_Of_Students>3</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Dr.Öğr.Üye. İlker KÖSE</Teacher>
+	<Subject>Veri Madenciliği</Subject>
+	<Students>Endüstri Mühendisliği - 2</Students>
+	<Students>Biyomedikal Mühendisliği - 2</Students>
+	<Duration>3</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>15</Id>
+	<Activity_Group_Id>14</Activity_Group_Id>
+	<Number_Of_Students>3</Number_Of_Students>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Dr.Öğr.Üye. Melis Almula KARADAYI</Teacher>
+	<Subject>Yöneylem Araştırması I</Subject>
+	<Students>Endüstri Mühendisliği - 1</Students>
+	<Duration>2</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>16</Id>
+	<Activity_Group_Id>16</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Dr.Öğr.Üye. Melis Almula KARADAYI</Teacher>
+	<Subject>Yöneylem Araştırması I</Subject>
+	<Students>Endüstri Mühendisliği - 1</Students>
+	<Duration>2</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>17</Id>
+	<Activity_Group_Id>16</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Dr.Öğr.Üye. Melis Almula KARADAYI</Teacher>
+	<Subject>Yöneylem Araştırması I</Subject>
+	<Students>Endüstri Mühendisliği - 1</Students>
+	<Duration>1</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>18</Id>
+	<Activity_Group_Id>16</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Prof.Dr. Hakan TOZAN</Teacher>
+	<Subject>Yöneylem Araştırması II</Subject>
+	<Students>Endüstri Mühendisliği - 3</Students>
+	<Duration>2</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>19</Id>
+	<Activity_Group_Id>19</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Prof.Dr. Hakan TOZAN</Teacher>
+	<Subject>Yöneylem Araştırması II</Subject>
+	<Students>Endüstri Mühendisliği - 3</Students>
+	<Duration>2</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>20</Id>
+	<Activity_Group_Id>19</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Prof.Dr. Hakan TOZAN</Teacher>
+	<Subject>Yöneylem Araştırması II</Subject>
+	<Students>Endüstri Mühendisliği - 3</Students>
+	<Duration>1</Duration>
+	<Total_Duration>5</Total_Duration>
+	<Id>21</Id>
+	<Activity_Group_Id>19</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Prof.Dr. Hüseyin ARSLAN</Teacher>
+	<Subject>Fizik I</Subject>
+	<Students>Endüstri Mühendisliği - 3</Students>
+	<Duration>2</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>22</Id>
+	<Activity_Group_Id>22</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Prof.Dr. Hüseyin ARSLAN</Teacher>
+	<Subject>Fizik I</Subject>
+	<Students>Endüstri Mühendisliği - 3</Students>
+	<Duration>2</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>23</Id>
+	<Activity_Group_Id>22</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Prof.Dr. Ayşe Zeynep SÖZEN</Teacher>
+	<Subject>Üretim Planlama ve Stok Kontrolü</Subject>
+	<Students>Biyomedikal Mühendisliği - 3</Students>
+	<Duration>3</Duration>
+	<Total_Duration>7</Total_Duration>
+	<Id>24</Id>
+	<Activity_Group_Id>24</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Prof.Dr. Ayşe Zeynep SÖZEN</Teacher>
+	<Subject>Üretim Planlama ve Stok Kontrolü</Subject>
+	<Students>Biyomedikal Mühendisliği - 3</Students>
+	<Duration>3</Duration>
+	<Total_Duration>7</Total_Duration>
+	<Id>25</Id>
+	<Activity_Group_Id>24</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Prof.Dr. Ayşe Zeynep SÖZEN</Teacher>
+	<Subject>Üretim Planlama ve Stok Kontrolü</Subject>
+	<Students>Biyomedikal Mühendisliği - 3</Students>
+	<Duration>1</Duration>
+	<Total_Duration>7</Total_Duration>
+	<Id>26</Id>
+	<Activity_Group_Id>24</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Arş.Gör. Lamia Gülnur KASAP</Teacher>
+	<Subject>Modelleme ve Optimizasyon</Subject>
+	<Students>Endüstri Mühendisliği - 2</Students>
+	<Duration>2</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>27</Id>
+	<Activity_Group_Id>27</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Arş.Gör. Lamia Gülnur KASAP</Teacher>
+	<Subject>Modelleme ve Optimizasyon</Subject>
+	<Students>Endüstri Mühendisliği - 2</Students>
+	<Duration>2</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>28</Id>
+	<Activity_Group_Id>27</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+</Activities_List>
+
+<Buildings_List>
+<Building>
+	<Name>A-Blok</Name>
+	<Comments></Comments>
+</Building>
+<Building>
+	<Name>B-Blok</Name>
+	<Comments></Comments>
+</Building>
+</Buildings_List>
+
+<Rooms_List>
+<Room>
+	<Name>101</Name>
+	<Building>A-Blok</Building>
+	<Capacity>300</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>102</Name>
+	<Building>A-Blok</Building>
+	<Capacity>300</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>103</Name>
+	<Building>A-Blok</Building>
+	<Capacity>300</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>104</Name>
+	<Building>A-Blok</Building>
+	<Capacity>300</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>105</Name>
+	<Building>A-Blok</Building>
+	<Capacity>300</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>201</Name>
+	<Building>B-Blok</Building>
+	<Capacity>300</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>202</Name>
+	<Building>B-Blok</Building>
+	<Capacity>300</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>203</Name>
+	<Building>B-Blok</Building>
+	<Capacity>300</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>204</Name>
+	<Building>B-Blok</Building>
+	<Capacity>300</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+<Room>
+	<Name>205</Name>
+	<Building>B-Blok</Building>
+	<Capacity>300</Capacity>
+	<Virtual>false</Virtual>
+	<Comments></Comments>
+</Room>
+</Rooms_List>
+
+<Time_Constraints_List>
+<ConstraintBasicCompulsoryTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintBasicCompulsoryTime>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>1</Activity_Id>
+	<Activity_Id>2</Activity_Id>
+	<Activity_Id>3</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>4</Activity_Id>
+	<Activity_Id>5</Activity_Id>
+	<Activity_Id>6</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>7</Activity_Id>
+	<Activity_Id>8</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>9</Activity_Id>
+	<Activity_Id>10</Activity_Id>
+	<Activity_Id>11</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>12</Activity_Id>
+	<Activity_Id>13</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>14</Activity_Id>
+	<Activity_Id>15</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Prof.Dr. Hakan TOZAN</Teacher>
+	<Number_of_Not_Available_Times>14</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Dr.Öğr.Üye. Melis Almula KARADAYI</Teacher>
+	<Number_of_Not_Available_Times>12</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Tuesday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Prof.Dr. Zekai ŞEN</Teacher>
+	<Number_of_Not_Available_Times>3</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Dr.Öğr.Üye. İlker KÖSE</Teacher>
+	<Number_of_Not_Available_Times>3</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>7</Activity_Id>
+	<Preferred_Day>Monday</Preferred_Day>
+	<Preferred_Hour>10:00</Preferred_Hour>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>16</Activity_Id>
+	<Activity_Id>17</Activity_Id>
+	<Activity_Id>18</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>19</Activity_Id>
+	<Activity_Id>20</Activity_Id>
+	<Activity_Id>21</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>22</Activity_Id>
+	<Activity_Id>23</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>24</Activity_Id>
+	<Activity_Id>25</Activity_Id>
+	<Activity_Id>26</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>95</Weight_Percentage>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>27</Activity_Id>
+	<Activity_Id>28</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintMinDaysBetweenActivities>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Prof.Dr. Ayşe Zeynep SÖZEN</Teacher>
+	<Number_of_Not_Available_Times>8</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Arş.Gör. Lamia Gülnur KASAP</Teacher>
+	<Number_of_Not_Available_Times>8</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
+</Time_Constraints_List>
+
+<Space_Constraints_List>
+<ConstraintBasicCompulsorySpace>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintBasicCompulsorySpace>
+<ConstraintRoomNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Room>101</Room>
+	<Number_of_Not_Available_Times>9</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Monday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Thursday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Friday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintRoomNotAvailableTimes>
+<ConstraintRoomNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Room>102</Room>
+	<Number_of_Not_Available_Times>8</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>11:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>12:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>13:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>14:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>15:00</Hour>
+	</Not_Available_Time>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintRoomNotAvailableTimes>
+<ConstraintActivityPreferredRoom>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>27</Activity_Id>
+	<Room>105</Room>
+	<Permanently_Locked>true</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredRoom>
+</Space_Constraints_List>
+
+</fet>
